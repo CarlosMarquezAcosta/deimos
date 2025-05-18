@@ -1,14 +1,20 @@
 # Deimos
 
-A basic Text Editor built with I wanted to make, it was built with Dear PyGUI.
-    Currently it only: edits, saves and open files
+### Version 0.02
 
-# Requirements
+A basic Text Editor built with I wanted to make, it was built with Dear PyGUI.  
+Currently it only: 
+- edits files
+- saves files
+- open files  
+
+All in one executable
+
+# Libraries Used
 
     Python:
-        Libraries:
-            dearpygui 2.0.0
-            screeninfo
+        dearpygui 2.0.0
+        screeninfo
 
 # TODO
 
